@@ -3,26 +3,26 @@
     "id": "gpu-1",
     "name": "Nvidia RTX 5090 FE",
     "category": "GPU",
-    "currentPrice": 2199,
+    "currentPrice": 3899,
     "status": "Out of Stock",
     "history": [
-      { "month": "Oct 25", "price": 1999 },
-      { "month": "Nov 25", "price": 2050 },
-      { "month": "Dec 25", "price": 2100 },
-      { "month": "Jan 26", "price": 2150 },
-      { "month": "Feb 26", "price": 2199 }
+      { "month": "Oct 25", "price": 2199 },
+      { "month": "Nov 25", "price": 2499 },
+      { "month": "Dec 25", "price": 2899 },
+      { "month": "Jan 26", "price": 3450 },
+      { "month": "Feb 26", "price": 3899 }
     ]
   },
   {
     "id": "gpu-2",
-    "name": "AMD RX 9900 XTX",
+    "name": "AMD RX 7900 XTX",
     "category": "GPU",
     "currentPrice": 1450,
     "status": "In Stock",
     "history": [
-      { "month": "Oct 25", "price": 1199 },
-      { "month": "Nov 25", "price": 1250 },
-      { "month": "Dec 25", "price": 1300 },
+      { "month": "Oct 25", "price": 999 },
+      { "month": "Nov 25", "price": 1099 },
+      { "month": "Dec 25", "price": 1250 },
       { "month": "Jan 26", "price": 1350 },
       { "month": "Feb 26", "price": 1450 }
     ]
@@ -31,70 +31,84 @@
     "id": "ram-1",
     "name": "G.Skill Trident Z5 32GB DDR5-6400",
     "category": "RAM",
-    "currentPrice": 359,
+    "currentPrice": 529,
     "status": "Low Stock",
     "history": [
-      { "month": "Oct 25", "price": 129 },
-      { "month": "Nov 25", "price": 189 },
-      { "month": "Dec 25", "price": 249 },
-      { "month": "Jan 26", "price": 310 },
-      { "month": "Feb 26", "price": 359 }
+      { "month": "Oct 25", "price": 159 },
+      { "month": "Nov 25", "price": 249 },
+      { "month": "Dec 25", "price": 359 },
+      { "month": "Jan 26", "price": 449 },
+      { "month": "Feb 26", "price": 529 }
     ]
   },
   {
     "id": "ram-2",
     "name": "Corsair Vengeance 64GB DDR5-6000",
     "category": "RAM",
-    "currentPrice": 489,
+    "currentPrice": 849,
     "status": "Out of Stock",
     "history": [
-      { "month": "Oct 25", "price": 220 },
-      { "month": "Nov 25", "price": 280 },
-      { "month": "Dec 25", "price": 350 },
-      { "month": "Jan 26", "price": 420 },
-      { "month": "Feb 26", "price": 489 }
+      { "month": "Oct 25", "price": 289 },
+      { "month": "Nov 25", "price": 420 },
+      { "month": "Dec 25", "price": 580 },
+      { "month": "Jan 26", "price": 720 },
+      { "month": "Feb 26", "price": 849 }
     ]
   },
   {
     "id": "ssd-1",
-    "name": "Samsung 990 Pro 2TB Gen5",
+    "name": "Crucial T705 2TB Gen5",
     "category": "Storage",
-    "currentPrice": 329,
+    "currentPrice": 549,
     "status": "In Stock",
     "history": [
-      { "month": "Oct 25", "price": 249 },
-      { "month": "Nov 25", "price": 269 },
-      { "month": "Dec 25", "price": 289 },
-      { "month": "Jan 26", "price": 309 },
-      { "month": "Feb 26", "price": 329 }
+      { "month": "Oct 25", "price": 329 },
+      { "month": "Nov 25", "price": 389 },
+      { "month": "Dec 25", "price": 449 },
+      { "month": "Jan 26", "price": 499 },
+      { "month": "Feb 26", "price": 549 }
     ]
   },
   {
     "id": "ssd-2",
     "name": "WD Black SN850X 4TB Gen4",
     "category": "Storage",
-    "currentPrice": 419,
+    "currentPrice": 599,
     "status": "In Stock",
     "history": [
-      { "month": "Oct 25", "price": 349 },
-      { "month": "Nov 25", "price": 369 },
-      { "month": "Dec 25", "price": 389 },
-      { "month": "Jan 26", "price": 399 },
-      { "month": "Feb 26", "price": 419 }
+      { "month": "Oct 25", "price": 399 },
+      { "month": "Nov 25", "price": 449 },
+      { "month": "Dec 25", "price": 499 },
+      { "month": "Jan 26", "price": 549 },
+      { "month": "Feb 26", "price": 599 }
     ]
   },
   {
     "id": "gpu-3",
-    "name": "Nvidia RTX 5080",
+    "name": "Nvidia RTX 4090",
     "category": "GPU",
-    "currentPrice": 1499,
+    "currentPrice": 2899,
     "status": "Out of Stock",
     "history": [
-      { "month": "Oct 25", "price": 1199 },
-      { "month": "Nov 25", "price": 1299 },
-      { "month": "Dec 25", "price": 1399 },
-      { "month": "Jan 26", "price": 1450 },
-      { "month": "Feb 26", "price": 1499 }
+      { "month": "Oct 25", "price": 1899 },
+      { "month": "Nov 25", "price": 2100 },
+      { "month": "Dec 25", "price": 2400 },
+      { "month": "Jan 26", "price": 2650 },
+      { "month": "Feb 26", "price": 2899 }
+    ]
+  },
+  {
+    "id": "gpu-4",
+    "name": "Nvidia RTX 4080 Super",
+    "category": "GPU",
+    "currentPrice": 1450,
+    "status": "In Stock",
+    "history": [
+      { "month": "Oct 25", "price": 999 },
+      { "month": "Nov 25", "price": 1150 },
+      { "month": "Dec 25", "price": 1250 },
+      { "month": "Jan 26", "price": 1350 },
+      { "month": "Feb 26", "price": 1450 }
     ]
   }
 ]

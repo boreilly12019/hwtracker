@@ -10,14 +10,28 @@ let pricesData = [
     id: "gpu-1",
     name: "Nvidia RTX 5090 FE",
     category: "GPU",
-    currentPrice: 2199,
+    currentPrice: 3899,
     status: "Out of Stock",
     history: [
-      { month: "Oct 25", price: 1999 },
-      { month: "Nov 25", price: 2050 },
-      { month: "Dec 25", price: 2100 },
-      { month: "Jan 26", price: 2150 },
-      { month: "Feb 26", price: 2199 }
+      { month: "Oct 25", price: 2199 },
+      { month: "Nov 25", price: 2499 },
+      { month: "Dec 25", price: 2899 },
+      { month: "Jan 26", price: 3450 },
+      { month: "Feb 26", price: 3899 }
+    ]
+  },
+  {
+    id: "gpu-2",
+    name: "AMD RX 7900 XTX",
+    category: "GPU",
+    currentPrice: 1450,
+    status: "In Stock",
+    history: [
+      { month: "Oct 25", price: 999 },
+      { month: "Nov 25", price: 1099 },
+      { month: "Dec 25", price: 1250 },
+      { month: "Jan 26", price: 1350 },
+      { month: "Feb 26", price: 1450 }
     ]
   },
   // ... (other products would be here)
@@ -34,7 +48,7 @@ async function scrapePrice(productName: string): Promise<number | null> {
 
     // SIMULATION for 2026 Hardware (since these products don't exist yet):
     // Generate a random price fluctuation between -5% and +15% based on "market volatility"
-    const basePrice = 2000; // Mock base price
+    const basePrice = 3800; // Mock base price (updated for crisis)
     const volatility = Math.random() * 0.2 - 0.05; // -5% to +15%
     const newPrice = Math.round(basePrice * (1 + volatility));
     

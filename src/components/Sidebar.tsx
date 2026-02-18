@@ -31,21 +31,21 @@ export function Sidebar() {
             <Cpu className="w-8 h-8 text-emerald-500 bg-emerald-500/10 p-1.5 rounded-md" />
             <div>
               <div className="text-sm font-medium text-zinc-200">Ryzen 9800X3D</div>
-              <div className="text-xs text-zinc-500">Target: $350</div>
+              <div className="text-xs text-zinc-500">Target: $550</div>
             </div>
           </div>
-          <span className="text-red-400 text-xs font-medium">+$40</span>
+          <span className="text-red-400 text-xs font-medium">+$240</span>
         </div>
 
         <div className="flex items-center justify-between p-3 rounded-lg bg-zinc-900/50 border border-zinc-800">
           <div className="flex items-center gap-3">
             <HardDrive className="w-8 h-8 text-blue-500 bg-blue-500/10 p-1.5 rounded-md" />
             <div>
-              <div className="text-sm font-medium text-zinc-200">990 Pro 4TB</div>
-              <div className="text-xs text-zinc-500">Target: $280</div>
+              <div className="text-sm font-medium text-zinc-200">Crucial T705 4TB</div>
+              <div className="text-xs text-zinc-500">Target: $450</div>
             </div>
           </div>
-          <span className="text-red-400 text-xs font-medium">+$80</span>
+          <span className="text-red-400 text-xs font-medium">+$220</span>
         </div>
       </div>
     </div>
