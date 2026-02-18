@@ -1,0 +1,100 @@
+[
+  {
+    "id": "gpu-1",
+    "name": "Nvidia RTX 5090 FE",
+    "category": "GPU",
+    "currentPrice": 2199,
+    "status": "Out of Stock",
+    "history": [
+      { "month": "Oct 25", "price": 1999 },
+      { "month": "Nov 25", "price": 2050 },
+      { "month": "Dec 25", "price": 2100 },
+      { "month": "Jan 26", "price": 2150 },
+      { "month": "Feb 26", "price": 2199 }
+    ]
+  },
+  {
+    "id": "gpu-2",
+    "name": "AMD RX 9900 XTX",
+    "category": "GPU",
+    "currentPrice": 1450,
+    "status": "In Stock",
+    "history": [
+      { "month": "Oct 25", "price": 1199 },
+      { "month": "Nov 25", "price": 1250 },
+      { "month": "Dec 25", "price": 1300 },
+      { "month": "Jan 26", "price": 1350 },
+      { "month": "Feb 26", "price": 1450 }
+    ]
+  },
+  {
+    "id": "ram-1",
+    "name": "G.Skill Trident Z5 32GB DDR5-6400",
+    "category": "RAM",
+    "currentPrice": 359,
+    "status": "Low Stock",
+    "history": [
+      { "month": "Oct 25", "price": 129 },
+      { "month": "Nov 25", "price": 189 },
+      { "month": "Dec 25", "price": 249 },
+      { "month": "Jan 26", "price": 310 },
+      { "month": "Feb 26", "price": 359 }
+    ]
+  },
+  {
+    "id": "ram-2",
+    "name": "Corsair Vengeance 64GB DDR5-6000",
+    "category": "RAM",
+    "currentPrice": 489,
+    "status": "Out of Stock",
+    "history": [
+      { "month": "Oct 25", "price": 220 },
+      { "month": "Nov 25", "price": 280 },
+      { "month": "Dec 25", "price": 350 },
+      { "month": "Jan 26", "price": 420 },
+      { "month": "Feb 26", "price": 489 }
+    ]
+  },
+  {
+    "id": "ssd-1",
+    "name": "Samsung 990 Pro 2TB Gen5",
+    "category": "Storage",
+    "currentPrice": 329,
+    "status": "In Stock",
+    "history": [
+      { "month": "Oct 25", "price": 249 },
+      { "month": "Nov 25", "price": 269 },
+      { "month": "Dec 25", "price": 289 },
+      { "month": "Jan 26", "price": 309 },
+      { "month": "Feb 26", "price": 329 }
+    ]
+  },
+  {
+    "id": "ssd-2",
+    "name": "WD Black SN850X 4TB Gen4",
+    "category": "Storage",
+    "currentPrice": 419,
+    "status": "In Stock",
+    "history": [
+      { "month": "Oct 25", "price": 349 },
+      { "month": "Nov 25", "price": 369 },
+      { "month": "Dec 25", "price": 389 },
+      { "month": "Jan 26", "price": 399 },
+      { "month": "Feb 26", "price": 419 }
+    ]
+  },
+  {
+    "id": "gpu-3",
+    "name": "Nvidia RTX 5080",
+    "category": "GPU",
+    "currentPrice": 1499,
+    "status": "Out of Stock",
+    "history": [
+      { "month": "Oct 25", "price": 1199 },
+      { "month": "Nov 25", "price": 1299 },
+      { "month": "Dec 25", "price": 1399 },
+      { "month": "Jan 26", "price": 1450 },
+      { "month": "Feb 26", "price": 1499 }
+    ]
+  }
+]
